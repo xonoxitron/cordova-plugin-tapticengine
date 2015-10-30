@@ -1,8 +1,5 @@
-# Cordova Plugin Taptic Engine
-### (cordova-plugin-TapticEngine v1.0.0)
-
-</br>
-</br>
+# Cordova Plugin iOS Taptic Engine
+### (cordova-plugin-tapticengine v1.0.0)
 
 <img src="cordova-plugin-tapticengine-icon.png" width="300"/>&nbsp;
 
