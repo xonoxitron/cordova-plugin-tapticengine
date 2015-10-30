@@ -1,0 +1,29 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"TapticEngine\"><param name=\"ios-package\" value=\"CDVTapticEngine\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.dev.tapticengine"
+        },
+        "cordova-plugin-tapticengine": {
+            "PACKAGE_NAME": "com.dev.tapticengine"
+        }
+    },
+    "dependent_plugins": {}
+}

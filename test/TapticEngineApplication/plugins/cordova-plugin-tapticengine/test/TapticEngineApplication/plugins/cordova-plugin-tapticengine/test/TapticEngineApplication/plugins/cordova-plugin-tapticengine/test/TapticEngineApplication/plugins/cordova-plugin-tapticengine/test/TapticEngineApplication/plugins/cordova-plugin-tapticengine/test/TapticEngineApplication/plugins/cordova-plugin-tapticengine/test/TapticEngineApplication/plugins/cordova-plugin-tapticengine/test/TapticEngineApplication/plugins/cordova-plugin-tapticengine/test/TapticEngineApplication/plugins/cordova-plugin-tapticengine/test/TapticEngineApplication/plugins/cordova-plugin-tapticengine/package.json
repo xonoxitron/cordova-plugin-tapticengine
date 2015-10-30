@@ -1,0 +1,37 @@
+{
+  "name": "cordova-plugin-tapticengine",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for performing Taptic Engine Feedback on latest iOS Devices",
+  "main": "TapticEngine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xonoxitron/cordova-plugin-tapticengine.git"
+  },
+  "keywords": [
+    "touch",
+    "force touch",
+    "3d touch",
+    "haptic",
+    "taptic",
+    "haptic feedback",
+    "taptic feedback",
+    "touch feedback",
+    "touch vibration",
+    "vibration",
+    "cordova",
+    "phonegap",
+    "ionic",
+    "apple",
+    "ios",
+    "vibration control"
+  ],
+  "author": "Matteo Pisani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/xonoxitron/cordova-plugin-tapticengine/issues"
+  },
+  "homepage": "https://github.com/xonoxitron/cordova-plugin-tapticengine#readme"
+}

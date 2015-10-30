@@ -1,0 +1,18 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-tapticengine": {
+        "source": {
+            "type": "local",
+            "path": "../../../cordova-plugin-tapticengine"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

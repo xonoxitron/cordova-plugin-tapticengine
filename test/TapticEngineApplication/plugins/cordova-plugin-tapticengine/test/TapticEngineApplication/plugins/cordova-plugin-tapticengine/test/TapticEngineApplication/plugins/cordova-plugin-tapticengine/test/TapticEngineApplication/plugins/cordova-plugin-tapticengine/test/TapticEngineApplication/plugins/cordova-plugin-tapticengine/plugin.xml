@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+            id="cordova-plugin-tapticengine" version="1.0.0">
+        <name>Taptic Engine (Apple iOS)</name>
+        <description>Apache Cordova Plugin @ Apple iOS Taptic Engine</description>
+        <license>Apache 2.0</license>
+        <keywords>touch,force touch,3d touch,haptic,taptic,haptic feedback,taptic feedback,touch feedback,touch vibration,vibration,cordova,phonegap,ionic,apple,ios,vibration control</keywords>
+        <js-module src="TapticEngine.js" name="TapticEngine">
+            <clobbers target="TapticEngine" />
+        </js-module>
+        <platform name="ios">
+            <config-file target="config.xml" parent="/*">
+                <feature name="TapticEngine">
+                    <param name="ios-package" value="CDVTapticEngine"/>
+                </feature>
+            </config-file>
+            <header-file src="src/ios/CDVTapticEngine.h" />
+            <source-file src="src/ios/CDVTapticEngine.m" />
+        </platform>
+    </plugin>
