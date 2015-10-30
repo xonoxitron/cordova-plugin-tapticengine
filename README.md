@@ -12,7 +12,7 @@ Linkedin: http://www.linkedin.com/in/matteopisani
 
 ## Description
 This plugin allows developer to manage Taptic Engine feedback of supported Apple devices.
-With a simple call to the "TapticEngine" object vibration can be performed.
+With a simple call to the "TapticEngine" object, vibration can be performed.
 
 ## Supported Devices (Apple)
 - iPhone 6S
@@ -25,7 +25,7 @@ With a simple call to the "TapticEngine" object vibration can be performed.
 ## Starting
 Create a new Cordova Project
 
-    $ cordova create TapticEngineApplication com.development.TapticEngine TapticEngineApplication
+    $ cordova create TapticEngineApplication com.development.tapticengine TapticEngineApplication
 
 ## Installing the plugin (from GIT)
 Clone the plugin
