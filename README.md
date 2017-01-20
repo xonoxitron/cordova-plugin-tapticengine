@@ -1,7 +1,7 @@
 # Cordova Plugin iOS Taptic Engine
-### (cordova-plugin-tapticengine v1.0.0)
+### (cordova-plugin-tapticengine v2.0.0)
 <br>
-<img src="cordova-plugin-tapticengine-icon.png" width="300"/>&nbsp;
+<img src="https://github.com/xonoxitron/cordova-plugin-tapticengine/blob/master/cordova-plugin-tapticengine-icon.png?raw=true" width="300"/>&nbsp;
 
 ## Author
 ```
@@ -15,6 +15,8 @@ This plugin allows developer to manage Taptic Engine feedback of supported Apple
 With a simple call to the "TapticEngine" object, vibration can be performed.
 
 ## Supported Devices (Apple)
+- iPhone 7
+- iPhone 7 Plus
 - iPhone 6S
 - iPhone 6S Plus
 - iPad Pro

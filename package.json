@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-tapticengine",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Cordova Plugin for performing Taptic Engine Feedback on latest iOS Devices",
   "main": "TapticEngine.js",
   "scripts": {
